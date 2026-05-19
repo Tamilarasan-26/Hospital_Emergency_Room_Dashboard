@@ -34,6 +34,5 @@ Conclusion
 This project demonstrates how healthcare data can be transformed into meaningful visual insights using Power BI. The Hospital Emergency Room Dashboard enables hospitals to monitor operational performance, improve patient experience, and support better decision-making through clear and interactive data visualization.
 
 Author
-Tamilarasan M
 
 Tamilarasan M
